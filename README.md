@@ -1,2 +1,5 @@
 # Hackrank Solution
-## MYSQL
+
+## Mysql
+
+## Python
