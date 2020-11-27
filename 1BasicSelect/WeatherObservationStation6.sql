@@ -3,4 +3,4 @@
 SELECT DISTINCT CITY 
 FROM STATION
 /*  First letter match a,e,i,o,u  */
-WHERE CITY RLIKE "[aeiou]$";
+WHERE CITY RLIKE "^[aeiou]";
