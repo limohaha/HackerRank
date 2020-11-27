@@ -1,1 +1,2 @@
-# Hackrank_sql
+# Hackrank Solution
+## MYSQL
