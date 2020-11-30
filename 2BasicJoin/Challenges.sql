@@ -1,4 +1,4 @@
-/* Problem Link: */
+/* Problem Link: https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=false */
 
 SELECT c.hacker_id, h.name, count(c.hacker_id) as cthid0
 FROM hackers AS h 
